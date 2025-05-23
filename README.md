@@ -21,11 +21,11 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 <!-- ☐ -->
 <!-- ☐ -->
 
-| Status | Room Title                                                                    | Category            | Write-up                                 |
-| ---    | ---                                                                           | ---                 | ---                                      |
-| ☐      | [Tutorial](https://tryhackme.com/room/tutorial)                               | Intro               |                                          |
+| Status | Room Title                                                                    | Category             | Write-up                                 |
+| ---    | ---                                                                           | ---                  | ---                                       |
+| ☑      | [Tutorial](https://tryhackme.com/room/tutorial)                               | Intro               |                                          |
 | ☐      | [OpenVPN](https://tryhackme.com/room/openvpn)                                 | Intro               |                                          |
-| ☐      | [Welcome](https://tryhackme.com/jr/welcome)                                   | Intro               | [done](write-ups/level1/Welcome)         |
+| ☐      | [Welcome](https://tryhackme.com/jr/welcome)                                   | Intro               |                                          |
 | ☐      | [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec) | Intro               |                                          |
 | ☐      | [Intro to Researching](https://tryhackme.com/room/introtoresearch)            | Intro               |                                          |
 | ☐      | [Google Dorking](https://tryhackme.com/room/googledorking)                    | Intro               |                                          |
@@ -38,9 +38,9 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | ☐      | [Nmap](https://tryhackme.com/room/furthernmap)                                | Tooling             |                                          |
 | ☐      | [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)        | Tooling             |                                          |
 | ☐      | [Hydra](https://tryhackme.com/room/hydra)                                     | Tooling             |                                          |
-| ☐      | [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)                      | Tooling             | [done](write-ups/level2/Linux%20PrivEsc) |
+| ☐      | [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)                      | Tooling             |                                          |
 | ☐      | [Shodan.io](https://tryhackme.com/room/shodan)                                | Tooling             |                                          |
-| ☐      | [RustScan](https://tryhackme.com/room/rustscan)                               | Tooling             | [done](write-ups/level2/RustScan)        |
+| ☐      | [RustScan](https://tryhackme.com/room/rustscan)                               | Tooling             |                                          |
 | ☐      | [Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)          | Tooling             |                                          |
 | ☐      | [Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)          | Tooling             |                                          |
 | ☐      | [Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap)         | Tooling             |                                          |
